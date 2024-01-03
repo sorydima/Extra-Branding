@@ -42,10 +42,10 @@ Noto as fallback.
 
 ©
 A Dmitry Sorokin production. All rights reserved.
-Powered by Katya AI. 👽
-Copyright © 2021-2023 Katya, Inc
+Powered by Katya ® 👽 AI 🧠
+Copyright © 2021-2024 Katya, Inc
 Katya ® is a registered trademark
-Sponsored by REChain. 🪐
+Sponsored by REChain ®️. 🪐
 hr@rechain.email
 p2p@rechain.email
 pr@rechain.email
